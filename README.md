@@ -7,6 +7,8 @@
 ## 使用
 
 ```js
+import './color-thief.js'
+
 imageSimilarity(src).then((similarity) => {
   // 0 极度相似
   // 1 相似
